@@ -1,2 +1,2 @@
-# s1ts1.github.io
+# s1ts.github.io
 front-end project
